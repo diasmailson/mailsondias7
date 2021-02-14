@@ -1,4 +1,7 @@
 # 👋 Welcome to my Profile 
+Systems development student
+
+[![Gmail Badge](https://img.shields.io/badge/-mailsondias7@gmail.com-e63946?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailsondias7@gmail.com)](mailto:mailsondias7@gmail.com)
 
 - :man_technologist: Learning e Coding;
 - :coffee: Turning caffeine into code;
