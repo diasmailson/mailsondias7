@@ -9,3 +9,5 @@ Systems development student
 
 ### :books: Studying
 <a href="https://www.java.com/" target="_blank"> ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
+
+> The **winner** makes determination his greatest asset.
