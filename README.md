@@ -3,11 +3,11 @@
 
 Systems development student
 
-- :man_technologist: Learning e Coding;
-- :coffee: Turning caffeine into code;
--  💡 I like to learn and seek knowledge;
+- :man_technologist: Aprendendo e Codando;
+- :coffee: Transformando cafeína em code;
+-  💡 Eu gosto de aprender e buscar o conhecimento;
 
-### :books: Studying
+### :books: Estudando
 <a href="https://www.java.com/" target="_blank"> ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
 
-> The **winner** makes determination his greatest asset.
+> O **vencedor** torna a determinação seu maior patrimônio.
