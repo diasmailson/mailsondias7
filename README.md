@@ -4,7 +4,7 @@
 Systems development student
 
 - :man_technologist: Aprendendo e Codando;
-- :coffee: Transformando cafeína em code;
+- :coffee: Transformando cafeína em código;
 -  💡 #NeverStopLearning;
 
 ### :books: Estudando
